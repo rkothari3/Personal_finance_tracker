@@ -14,3 +14,6 @@ The Personal Finance Tracker is a Python application designed to help users effi
 - **User Input Handling**: Implemented functions for robust user input validation, enhancing the overall user experience.
 - **Data Visualization**: Leveraged Matplotlib to create visual representations of financial data, helping users track their financial health over time.
 - **Version Control**: Managed code versioning and collaboration using Git and GitHub, fostering best practices in software development.
+
+## Future Development
+**Currently working on developing the front-end to streamline the user experience and enhance the application's functionality.**
